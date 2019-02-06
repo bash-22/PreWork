@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 tittle="Linkin Park Fan page">Linkin Park Fan Page</h1>
+
+<img src="https://vignette.wikia.nocookie.net/lyricwiki/images/7/7d/Linkin_park_1024.jpg/revision/latest?cb=20130128212249" width="400" height="400"  alt="Linkin Park">
+
+
+
+<h2> BIO </h2>
+<p>
+Linkin Park is an American rock band from Agoura Hills, California. Formed in 1996, the band rose to international fame with their debut album Hybrid Theory (2000), which was certified Diamond by the RIAA in 2005, and multi-Platinum in several other countries. Their following studio album Meteora continued the band's success, topping the Billboard 200 album chart in 2003, and was followed by extensive touring and charity work.
+<h3> MEMBERS
+<ul>	
+<li>Rob Bourdon</li>
+<li>Brad Delson</li>
+<li>Mike Shinoda</li>
+<li>Dave Farrell</li>
+<li>Joe Hahn</li>
+</ul> 
+</p>
+<iframe width="420" height="400"
+src="https://www.youtube.com/embed/eVTXPUF4Oz4">
+</iframe>
+</body>
+</html>
